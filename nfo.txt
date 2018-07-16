@@ -1,0 +1,20 @@
+"The Emoji Demo"
+an 8k textmode emoji macOS intro
+
+Released at NOVA 2018
+
+Code by yx
+Music by Subi/Desire
+
+4klang by Alcatraz
+shader_minifier by LLB
+OpenGL by Khronos & whoever wrote macOS's drivers
+and a healthy dose of gzip
+
+NOTES:
+This intro is best viewed under Alacritty (https://github.com/jwilm/alacritty)
+If you use an alternate terminal, a dark background is recommended.
+Terminal.app and iTerm2 both have sluggish framerate, and it gets worse at higher font sizes.
+Upterm has slightly better framerate but some of the characters display at incorrect widths (despite my best efforts to work around that).
+Visual Studio Code's integrated terminal performs quite well, but has a habit of leaving broken artifacts across the screen.
+Alacritty has flawless framerate performance but fails to render certain emojis, so the intro was carefully designed around that.
